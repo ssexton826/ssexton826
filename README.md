@@ -3,7 +3,7 @@
 <h2>👩‍💻 Data Analytics Projects:</h2>
 
 - [Happiness Index - Statistical Analysis](https://github.com/ssexton826/HappinessIndexStatisticalAnalysis)
-- [Business Analysis - Revenue Growth Models - Lariat Rent-A-Car](https://github.com/ssexton826/RevenueGrowthModels)
+- [Revenue Growth Models - Lariat Rent-A-Car - Business Analysis](https://github.com/ssexton826/RevenueGrowthModels)
 - [Housing Prices - Statistical Analysis](https://github.com/ssexton826/HousingPricesStatisticalAnalysis)
 
 <h2>📄 Certifications </h2>
