@@ -2,7 +2,7 @@
 
 <h2>👩‍💻 Data Analytics Projects:</h2>
 
-- [Business Analysis - Revenue Growth Models - Lariat Rent-A-Car](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Business Analysis - Revenue Growth Models - Lariat Rent-A-Car](https://github.com/ssexton826/RevenueGrowthModels)
 - [Statistical Significance - Pricing Factors -  House Prices](https://github.com/joshmadakor1/Algorithms-Practice)
 - [Statistical Significance - Economic Indicators -  The Happiness Index](https://github.com/joshmadakor1/Algorithms-Practice)
 
