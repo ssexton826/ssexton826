@@ -10,6 +10,11 @@
 
 - [Data Analytics](https://imgur.com/qIt75cn.png)
 
+<h2>💻 Technical Skills </h2>
+
+- Tools: Python, SQL, Pandas, Tableau, Microsoft Excel, Microsoft PowerPoint, PostgreSQL, HubSpot, Front, Sigma, Stripe, NumPy, Matplotlib, SciPy
+- Skills: Data cleaning, presentation design, statistical analysis, data visualization, business strategy, standard operating procedure implementation
+
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -17,17 +22,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/savannah-j-sexton/
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
