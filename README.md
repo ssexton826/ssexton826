@@ -8,7 +8,7 @@
 
 <h2>📄 Certifications </h2>
 
-- [Data Analytics](https://imgur.com/qIt75cn.png){target="_blank"}
+- [Data Analytics](https://imgur.com/qIt75cn.png)
 
 <h2>💻 Technical Skills </h2>
 
