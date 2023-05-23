@@ -2,9 +2,9 @@
 
 <h2>👩‍💻 Data Analytics Projects:</h2>
 
-- [Statistical Significance - Economic Indicators -  The Happiness](https://github.com/ssexton826/HappinessIndexStatisticalAnalysis)
+- [Happiness Index - Statistical Analysis](https://github.com/ssexton826/HappinessIndexStatisticalAnalysis)
 - [Business Analysis - Revenue Growth Models - Lariat Rent-A-Car](https://github.com/ssexton826/RevenueGrowthModels)
-- [Statistical Significance - Pricing Factors -  House Prices](https://github.com/ssexton826/HousingPricesStatisticalAnalysis)
+- [Housing Prices - Statistical Analysis](https://github.com/ssexton826/HousingPricesStatisticalAnalysis)
 
 <h2>📄 Certifications </h2>
 
