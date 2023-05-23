@@ -16,7 +16,7 @@
 - Skills: Data cleaning, presentation design, statistical analysis, data visualization, business strategy, standard operating procedure implementation
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect With Me:</h2>
 
 [<img align="left" alt="SavannahSexton | LinkedIn" width="22px" src="https://imgur.com/nxdkcrK.png" />][linkedin]
 
